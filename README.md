@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 Step 3:
 
 ```
-python3 main.py
+sh QuickStart.sh
 ```
 
 Step 4:
